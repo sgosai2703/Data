@@ -18,7 +18,7 @@ Data Projects with source code using Python3
     Steps to read data from an endpoint using REQUESTS library, then parsing it with JSON to a more readable format and finally converting to Dataframe in Pandas for further           manipulation.
     Site used as an example : http://api.open-notify.org/astros.json
     
-5. Data Cleansing and Analysis -Project 2 : 
+5. Data Cleansing and Analysis -Project 2 : App Market Analysis
    Analysing the Google Play and Android datasets to study market and find the most popular app Genre for both the markets.
    The code has cleansing steps, deduplication and analysis at the end (More detailed Steps covered in Code topmost Markdown cell.
    
