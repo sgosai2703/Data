@@ -26,5 +26,6 @@ Data Projects with source code using Python3
 
 7.  Max Comments : Using datetime and loop to find the relation between time and comments or to find out when were the maximum comments received for posts.
 
-   
+8.  Plotting with Pandas: 
+    Using Matplotlib and pandas to study corelation between two columns or to study individual distribution/spread of each column.
    
