@@ -22,6 +22,8 @@ Data Projects with source code using Python3
    Analysing the Google Play and Android datasets to study market and find the most popular app Genre for both the markets.
    The code has cleansing steps, deduplication and analysis at the end (More detailed Steps covered in Code topmost Markdown cell.
    
-  
+6.  Car Sales Analysis: Using Pandas to analyse the effect of brand on prices and car mileage. Data set has been taken from Kaggle.
+
+
    
    
