@@ -12,6 +12,7 @@ Data Projects with source code using Python3
    Dataset used for this can be found here.
    https://datacarpentry.org/python-socialsci/data/SAFI.json
 
-4. Steps for converting a JSON Response to Dataframe in Pandas for Data Manipulation:
+4.  Parsing Data: 
+    Steps for converting a JSON Response to Dataframe in Pandas for Data Manipulation:
     Steps to read data from an endpoint using REQUESTS library, then parsing it with JSON to a more readable format and finally converting to Dataframe in Pandas for further           manipulation.
     Site used as an example : http://api.open-notify.org/astros.json
