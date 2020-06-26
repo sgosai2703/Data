@@ -24,6 +24,7 @@ Data Projects with source code using Python3
    
 6.  Car Sales Analysis: Using Pandas to analyse the effect of brand on prices and car mileage. Data set has been taken from Kaggle.
 
+7.  Max Comments : Using datetime and loop to find the relation between time and comments or to find out when were the maximum comments received for posts.
 
    
    
